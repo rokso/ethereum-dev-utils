@@ -1,5 +1,5 @@
 # ethereum-dev-utils
-Helper code to speed to development and testing
+Helper code to speed up development and testing of your solidity code.
 
 * Usage
 
